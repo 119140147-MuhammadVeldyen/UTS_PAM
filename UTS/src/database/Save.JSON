@@ -1,0 +1,12 @@
+[
+    {
+        "jadwal_id": "1",
+        "dermaga_keberangkatan": "Merak",
+        "dermaga_tujuan": "Bakauheni",
+        "kelas_layanan": "Reguler", 
+        "tanggal_masuk": "Sabtu, 26 Maret 2022",
+        "jam_masuk": "15.30 WIB",
+        "harga": 65000
+    }
+
+]
